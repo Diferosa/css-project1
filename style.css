@@ -175,6 +175,18 @@ font-weight: 700;
 
 }
 
+/* footer */
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
 
 /* general */
 

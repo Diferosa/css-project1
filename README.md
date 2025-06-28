@@ -11,5 +11,9 @@ problems
 
 When zooming in too much, there are some problems flexing the page. I solved some of them, but I think to solve the others I have to be more advanced in the course. I will finish the last section and continue studying. 
 
+Last actualization
+
+i ended the project, was really fun and i learned a lot. I didn't expect it to be so relaxing
+
 Credits
 Image by <a href="https://pixabay.com/users/akirevarga-8968314/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7504820">Erika Varga</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7504820">Pixabay</a>
